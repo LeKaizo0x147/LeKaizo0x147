@@ -4,14 +4,11 @@
 hi, im jd 🔮.
 
 @@advanced programming student.@@
-+ living in tel aviv, israel.
++ living in Taza, Morocco.
 - 17 years old
 ! program engineer, web developer and shitposter
 # 📖 reverse engineering, computer science
 ```
-------
-[jewdev](https://github.com/jewdev)
-Last Edited on: 03/09/2021
 
 <i>Follow me around the web:</i><br>
 
