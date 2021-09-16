@@ -4,7 +4,7 @@
 hi, im Adam 🔮.
 
 @@advanced programming student.@@
-+ living in Taza, Morocco.
++ living in taza, morocco.
 - 17 years old
 ! program engineer, web developer and shitposter
 # 📖 reverse engineering, computer science
@@ -14,7 +14,7 @@ hi, im Adam 🔮.
  Connect with me : 
 </h2>
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/IsratIJK/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/IsratIJK/)  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/IsratIJK/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/IsratIJK/) [<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.linkedin.com/in/IsratIJK/) [<img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.linkedin.com/in/IsratIJK/)
 
 
 <h2 align="center">
