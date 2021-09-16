@@ -38,7 +38,7 @@ hi, im Adam 🔮.
 
 <h2 align="center">My Stats</h2>
 
-[![Ori' GitHub stats](https://github-readme-stats.vercel.app/api?username=stardust0x147&theme=dark)](https://github.com/oribendetcx/github-readme-stats&?theme=dark)
+[![Ori' GitHub stats](https://github.com/stardust0x147/github-readme-stats&?theme=dark&show_icons=true&include_all_commits=true)](https://github.com/stardust0x147/github-readme-stats&?theme=dark&show_icons=true&include_all_commits=true)
 
 
 
