@@ -18,14 +18,20 @@ hi, im Adam 🔮.
 
 <h2 align="center">Technologies and Languages</h2>
 
-![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/kalilinux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-000000?style=for-the-badge&logo=windows&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-000000?style=for-the-badge&logo=adobeAfterEffects&logoColor=white)
+![Adobe illustrator](https://img.shields.io/badge/Adobe%20Illustrator-000000?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/visual%20studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Teamspeak](https://img.shields.io/badge/teamspeak-000000?style=for-the-badge&logo=teamspeak&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)
 ![Whatsapp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Messenger](https://img.shields.io/badge/Messenger-000000?style=for-the-badge&logo=messenger&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-000000?style=for-the-badge&logo=zoom&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000000?&style=for-the-badge&logo=css3&logoColor=white)
