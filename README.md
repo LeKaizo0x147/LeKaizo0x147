@@ -36,7 +36,9 @@ hi, im Adam 🔮.
 ![Microsoft word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 
+<h2 align="center">My Stats</h2>
 
+[![Ori' GitHub stats](https://github-readme-stats.vercel.app/api?username=oribendetcx&theme=dark)](https://github.com/oribendetcx/github-readme-stats&?theme=dark)
 
 
 
