@@ -39,7 +39,7 @@ hi, im Adam 🔮.
 <h2 align="center">My Stats</h2>
 
 ![Stardust's Stats](https://github-readme-stats.vercel.app/api?username=stardust0x147&theme=react&show_icons=true&include_all_commits=true)
-![Stardust's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stardust0x147&theme=react&layout=compact)
+
 
 
 
