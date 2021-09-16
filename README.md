@@ -1,3 +1,4 @@
+<h2 align="center">Welcome to My Profile</h2>
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
@@ -38,7 +39,7 @@ hi, im Adam 🔮.
 
 <h2 align="center">My Stats</h2>
 
-![Stardust's Stats](https://github-readme-stats.vercel.app/api?username=stardust0x147&theme=react&show_icons=true&include_all_commits=true)
+![Stardust's Stats](https://github-readme-stats.vercel.app/api?username=stardust0x147&theme=dark&show_icons=true&include_all_commits=true)
 
 
 
