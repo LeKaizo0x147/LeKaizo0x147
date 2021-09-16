@@ -5,8 +5,8 @@
 hi, im Adam 🔮.
 
 @@advanced programming student.@@
-+ living in taza, morocco.
-- 17 years old
++ living in agadir, morocco.
+- 25 years old
 ! program engineer, web developer and shitposter
 # 📖 reverse engineering, computer science
 ```
