@@ -17,6 +17,7 @@ hi, im Adam 🔮.
 
 
 <h2 align="center">Technologies and Languages</h2>
+<h3>Operating Systems :</h3>
 
 ![Kali Linux](https://img.shields.io/badge/kalilinux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-000000?style=for-the-badge&logo=windows&logoColor=white)
