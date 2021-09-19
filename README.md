@@ -15,7 +15,6 @@ hi, im Adam 🔮.
  
 [<img src="https://img.shields.io/badge/linkedin-000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/IsratIJK/) [<img src = "https://img.shields.io/badge/twitter-000000.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/IsratIJK/) [<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.linkedin.com/in/IsratIJK/) [<img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.linkedin.com/in/IsratIJK/) [<img src="https://img.shields.io/badge/-LeKaizo.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" />](https://www.linkedin.com/in/IsratIJK/)
 
-
 <h2 align="center">Technologies and Languages</h2>
 
 ![Kali Linux](https://img.shields.io/badge/kalilinux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
