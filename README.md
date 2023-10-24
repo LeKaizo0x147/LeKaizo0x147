@@ -4,11 +4,11 @@
 ```diff
 hi, im Adam 🔮.
 
-@@advanced programming student.@@
-+ living in Taza, Morocco.
-- 25 years old
-! program engineer, web developer and shitposter
-# 📖 reverse engineering, computer science
+@@electrical engineer student.@@
++ living in Oujda, Morocco.
+- 19 years old
+! latex typographer, mathematician and physicist
+# 📖 electrical engineering, computer science
 ```
 <br>
 <h2 align="center">Connect with me</h2>
