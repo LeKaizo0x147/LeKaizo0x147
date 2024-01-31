@@ -18,7 +18,6 @@ hi, im Adam 🔮.
 <h2 align="center">Technologies and Languages</h2>
 
 ![Kali Linux](https://img.shields.io/badge/kalilinux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/archlinux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After%20Effects-000000?style=for-the-badge&logo=adobeAfterEffects&logoColor=white)
